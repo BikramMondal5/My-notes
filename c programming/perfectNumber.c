@@ -12,7 +12,6 @@ int main() {
     // Check if the number is positive
     if (num <= 0) {
         printf("Error: The number must be positive.\n");
-        return 1;
     }
 
     // Find the sum of all positive divisors excluding the number itself
