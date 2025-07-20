@@ -9,32 +9,29 @@ struct student{
 
 int main()
 {
-    struct student s1;
-    strcpy(s1.name, "Bikram Mondal");
-    s1.roll = 12;
-    s1.cgpa = 9.3;
+    struct student AIML[71];
+    AIML[0].roll = 12;
+    AIML[0].cgpa = 9.3;
+    strcpy(AIML[0].name, "Bikram Mondal");
 
-    printf("Student: %s\n",s1.name);
-    printf("Roll no: %d\n",s1.roll);
-    printf("CGPA: %.2f\n",s1.cgpa);
+    AIML[1].roll = 11;
+    AIML[1].cgpa = 9.6;
+    strcpy(AIML[1].name, "Koushik Ghosh");
 
-    struct student s2;
-    strcpy(s2.name, "Arijit Sarkar");
-    s2.roll = 21;
-    s2.cgpa = 9.7;
+    AIML[2].roll = 21;
+    AIML[2].cgpa = 9.6;
+    strcpy(AIML[2].name, "Arijit Sarkar");
 
-    printf("Student: %s\n",s2.name);
-    printf("Roll no: %d\n",s2.roll);
-    printf("CGPA: %.2f\n",s2.cgpa);
+    printf("Name: %s\n", AIML[0].name);
+    printf("Roll: %d\n", AIML[0].roll); 
+    printf("CGPA: %.2f\n", AIML[0].cgpa);
 
-    struct student s3;
-    strcpy(s3.name, "Koushik Ghosh");
-    s3.roll = 11;
-    s3.cgpa = 9.7;
+    printf("Name: %s\n", AIML[1].name);
+    printf("Roll: %d\n", AIML[1].roll);
+    printf("CGPA: %.2f\n", AIML[1].cgpa);
 
-    printf("Student: %s\n",s3.name);
-    printf("Roll no: %d\n",s3.roll);
-    printf("CGPA: %.2f\n",s3.cgpa);
-
+    printf("Name: %s\n", AIML[2].name);
+    printf("Roll: %d\n", AIML[2].roll);
+    printf("CGPA: %.2f\n", AIML[2].cgpa);
     return 0;
 }
