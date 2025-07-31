@@ -1,0 +1,10 @@
+rollNo = c(211,116,110,319)
+Names = c("Bikram","Koushik","Arijit","Goutam")
+colNames = c("Roll","Names","Marks")
+Marks = c(70.5,67,72,86)
+ListNames = list("Roll"=rollNo,"Names"=Names,"Marks"=Marks)
+print(ListNames)
+
+index = which(ListNames$Roll==110)
+print(index)
+print(ListNames$Names[3])
