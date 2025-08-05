@@ -1,0 +1,34 @@
+Lab Assignment - Day 4
+Write all your codes in a folder "Lab4" under your id folder.
+Path will be as following
+D:\<your id>\src\Lab4
+Test all your codes from command prompt in your virtual environment
+
+1. Write the following piece of commands in your lab file
+ a)Opening Files
+ b)Reading Files
+ c)Writing Files
+ d)Closing Files
+ e)Context Manager
+
+2. Read a file HelloWorld.tx and print the content in the file
+
+3. Read a file chess_results.csv and print each lines of the file.
+
+4. Write the following in a file and store in your Lab4 folder. Add a newline character after each line
+Hello World
+My name is Tom Cruise
+I stay in USA
+I am an Actor
+
+
+5. Write a code to delete a file.
+
+6. Write a code to download a file from the link given below.
+http://ratings.fide.com/download/standard_rating_list.zip
+                                                                                       
+7. Write a code to unzip the zipped file downloaded in #6
+
+8. Write a code with exception handling to open a file. Test the code with a wrong path and execute the exception.
+
+9. Write code of custom exception handling to open a file which does not exists in the given path.
