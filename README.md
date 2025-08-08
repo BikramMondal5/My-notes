@@ -4,9 +4,22 @@ Programming notes for personal use.
 
 ## Directory Structure
 
-- `arrays/` - Programs related to array operations.
-- `file_handling/` - Programs demonstrating file handling.
-- `patterns/` - Programs for pattern printing.
-- `prime_numbers/` - Programs related to prime number operations.
-- `strings/` - Programs for string manipulations.
-- `structures/` - Programs demonstrating structure usage.
+- `DSA/` - C programs for data structures and algorithms.
+- `Design & Thinking/` - Project/report resources (PDFs, docs).
+- `Python notes/` - Python labs and examples.
+  - `Lab3/`
+  - `Lab4/`
+  - `file handling/`
+  - `venv/` (virtual environment; typically ignored in listings)
+- `R Programming/` - R-related materials.
+- `c programming/` - C programs by topic.
+  - `arrays/`
+  - `file_handling/`
+  - `fundamentals/`
+  - `pattern printing/`
+  - `prime_numbers/`
+  - `structures/`
+- `resources/` - Misc resources and assets.
+- `LICENSE`
+
+
