@@ -10,7 +10,7 @@ print(content)
 
 # c)Writing Files
 file = open("example.txt","w")
-file.write("I'm a B.TECH student from HITK")
+file.write("I'm a B.TECH student")
 
 # d)Closing Files
 file.close()

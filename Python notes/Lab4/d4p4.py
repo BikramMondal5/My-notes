@@ -9,4 +9,5 @@ file.write("Hello World\n")
 file.write("My name is Tom Cruise\n")
 file.write("I stay in USA\n")
 file.write("I am an Actor\n")
+file.close()
 
