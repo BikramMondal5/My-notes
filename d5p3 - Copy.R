@@ -1,0 +1,5 @@
+x=c(12,24,36)
+y=c(11,22,33)
+cor(x,y)
+cor(x,y,method="kendal")
+cor(x,y,method="spearman")
