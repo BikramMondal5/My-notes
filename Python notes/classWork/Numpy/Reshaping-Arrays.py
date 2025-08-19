@@ -10,3 +10,7 @@ print(arr.reshape(3, 4))
 
 # Reshape to 2×2×3
 print(arr.reshape(2, 2, 3))
+
+# Note: 
+# 1. Changes array shape without changing data
+# 2. New shape must have same total number of elements
