@@ -1,3 +1,5 @@
+# In a numpy array([10, 20, 30, 40, 50]) print 1st element, last element and 3rd element.
+
 import numpy as np
 
 arr = np.array([10, 20, 30, 40, 50])

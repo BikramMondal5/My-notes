@@ -1,3 +1,6 @@
+# Show that "NumPy's greatest strengths is vectorization" with a program and run your program to show how many times it is faster to use a vector operation instead of using a loop 
+
+
 import time
 import numpy as np
 

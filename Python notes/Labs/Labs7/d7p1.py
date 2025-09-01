@@ -1,3 +1,5 @@
+# Create a numpy 1D and 2D array
+
 import numpy as np
 
 # 1D array

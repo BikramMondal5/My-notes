@@ -1,3 +1,5 @@
+# For a numpy array([1, 4, 9, 16, 25]) print square , log, exponent and log for each element
+
 import numpy as np
 
 arr = np.array([1, 4, 9, 16, 25])

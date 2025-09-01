@@ -1,3 +1,5 @@
+# Split a 4x4 array horizontally and vertically
+
 import numpy as np
 
 arr = np.arange(16).reshape(4, 4)

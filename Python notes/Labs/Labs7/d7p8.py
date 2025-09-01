@@ -1,3 +1,5 @@
+# For a numpy array([[1, 2, 3], [4, 5, 6]]) print min, max , mean, median, std dev, variance, sum for all ments, for each rows and columns.
+
 import numpy as np
 
 arr = np.array([[1, 2, 3], [4, 5, 6]])
