@@ -8,3 +8,4 @@ print("Square:", np.square(arr))
 print("Log:", np.log(arr))
 print("Exp:", np.exp(arr))
 print("Sqrt:", np.sqrt(arr))
+ 
