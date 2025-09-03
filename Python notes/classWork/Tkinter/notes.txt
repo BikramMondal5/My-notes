@@ -3,3 +3,4 @@
 3. Purpose of tkinter: To increase the user-interactivity
 4. Canvas is the special widget is used to drawing shapes
 5. pack(): How you placing your widgets in the label/container
+6. Frame and root are both container
