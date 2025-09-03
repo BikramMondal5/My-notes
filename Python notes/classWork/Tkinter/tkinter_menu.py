@@ -1,6 +1,6 @@
 import tkinter as tk
 root = tk.Tk()
-root.title("Menu Example")
+root.title("Menu Example") 
 # Create the main menu bar
 menubar = tk.Menu(root)
 root.config(menu=menubar)
