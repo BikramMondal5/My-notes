@@ -1,0 +1,39 @@
+1. In Python, the in operator is used to check if a value exists in a list or string.
+
+2. The numpy module is commonly used for numerical computations in Python.
+
+3. To import a module named math, you use the statement import math.
+
+4. To convert a string to an integer in Python, you use the function int().
+
+5. In Python, a dictionary is defined using curly braces, like this:
+my_dict = {'key1': 'value1', 'key2': 'value2'}
+
+7. The input() function is used to read a line of text from user input.
+
+8. In Python, the None keyword is used to indicate that a function does not return any value.
+
+9. To combine two strings str1 and str2, you use the + operator.
+
+10. To access the first element of a list named my_list, you use my_list[0].
+
+11. A string can be surrounded by three sets of single quotation marks or by three sets of double quotation marks.
+→ True
+
+12. The expression 2**2**3 is evaluated as: (2**2)**3.
+→ False
+(It is evaluated as 2**(2**3) due to right-associativity.)
+
+13. To define a block of code in Python language we use indentation.
+
+14. ** is called the exponent operator.
+
+15. To create a dictionary, key-value pairs are separated by :.
+
+16. Name of the tool to implement GUI in Python is Tkinter.
+
+17. SciPy is a collection of mathematical algorithms and convenience functions built on NumPy.
+
+18. To create an identity matrix in NumPy we use np.eye() method.
+
+19. scipy.fftpack is used for Fast Fourier Transform (FFT).
