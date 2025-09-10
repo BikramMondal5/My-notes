@@ -6,3 +6,5 @@ while i < 5:
         break
 else:
     print(0)
+
+# Output: 012

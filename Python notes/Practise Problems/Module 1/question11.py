@@ -19,3 +19,5 @@ print(functools.reduce(cumul_sub, lst))
 # -6-2 = -8
 # 5. Next:
 # -8-1 = -9
+
+
